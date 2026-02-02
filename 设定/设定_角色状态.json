@@ -1,0 +1,90 @@
+{
+  "沈仪": {
+    "basic_info": {
+      "name": "沈仪",
+      "current_status": "身处柏杨城外荒原，刚刚完成肉身重塑与境界突破，正与大妖黑獒对峙"
+    },
+    "realm": "气血境圆满",
+    "assets": {
+      "killing_points": 0,
+      "monster_cores": {}
+    },
+    "equipment": [
+      "“断山”重刀（三百斤）",
+      "县令铜制腰牌"
+    ],
+    "cultivation": {
+      "core_manual": {
+        "name": "玄幽凝煞决",
+        "level": "入门（煞气入骨）",
+        "features": "将阳刚气血转化为阴冷死寂的幽冥煞气，具有极强的侵蚀性与破坏力"
+      },
+      "martial_skills": [
+        {
+          "name": "八荒镇魔斩",
+          "level": "入门（气血境武技，重刀法）"
+        },
+        {
+          "name": "幽煞斩",
+          "level": "《玄幽凝煞决》自带武技，极致压缩煞气"
+        }
+      ],
+      "physical_talents": [
+        {
+          "name": "妖骨韧性",
+          "type": "被动强化",
+          "effect": "吞噬八品妖丹后获得，皮膜坚韧如革，骨骼硬如玄铁，拥有极强的防御力与自愈能力"
+        }
+      ]
+    }
+  },
+  "敌人_黑獒": {
+    "identity": "赤狐王麾下大妖（黑狗头妖）",
+    "realm": "七品大妖",
+    "status": "战斗中，从绝对优势转为惊惧",
+    "threat_level": "极高"
+  },
+  "敌人_赤狐王": {
+    "identity": "深山妖王",
+    "realm": "六品",
+    "status": "闭关中/怀疑状态",
+    "threat_level": "致命"
+  },
+  "势力_临安县衙/斩妖司": {
+    "current_action": "处于瘫痪与极度恐慌状态，统领王猛在黑獒威胁下不敢擅动",
+    "threat_origin": "县令刘守义、统领曹虎被杀，城池失去与妖王的契约保护，面临屠城危机"
+  },
+  "势力_临安县": {
+    "current_action": "陷入瘫痪与绝望，县令及主要武力被沈仪肃清，面临赤狐王屠城威胁",
+    "threat_origin": "赤狐王（六品大妖）"
+  },
+  "势力_大乾官场": {
+    "current_action": "地方官僚（如刘守义）与妖魔勾结，牺牲百姓换取生存",
+    "threat_origin": "沈家覆灭背后的“大人”指令"
+  },
+  "势力_柏杨城韩家": {
+    "current_action": "通过向妖魔（鹏王）供奉活人血食换取家族商队安宁",
+    "threat_origin": "鹏王、韩家私兵"
+  },
+  "history": [
+    {
+      "time": "2026-02-02 22:01:37",
+      "updates": {
+        "killing_points": "消耗5400点（其中3800点用于肉身推演，1600点用于推演功法），剩余0点。",
+        "items_consumed": [
+          "三枚八品妖丹"
+        ],
+        "items_gained": [],
+        "new_skills": [],
+        "new_realm": "气血境圆满",
+        "enemy_updates": [
+          {
+            "name": "黑獒",
+            "status": "战斗中，从绝对优势转为惊惧",
+            "new_realm": "七品大妖"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "narrative": [
+    {
+      "timestamp": "2026-02-02T21:16:54.622960"
+    },
+    {
+      "ai_metaphor_removed": 0.0,
+      "dialogue_added": 0.0,
+      "action_detail_added": 0.0,
+      "description_reduced": 0.0,
+      "sentence_simplified": 0.0,
+      "direct_expression_added": 0.0,
+      "structural_intensity": 0.0059121621621621625,
+      "timestamp": "2026-02-02T21:28:28.275227"
+    },
+    {
+      "ai_metaphor_removed": 0.0,
+      "dialogue_added": 0.0,
+      "action_detail_added": 0.0,
+      "description_reduced": 0.0,
+      "sentence_simplified": 0.0,
+      "direct_expression_added": 0.0,
+      "structural_intensity": 0.0,
+      "timestamp": "2026-02-02T21:34:22.596319"
+    },
+    {
+      "ai_metaphor_removed": 0.905982905982906,
+      "dialogue_added": 0.02564102564102564,
+      "action_detail_added": 0.05128205128205128,
+      "description_reduced": 0.0,
+      "sentence_simplified": 0.0,
+      "direct_expression_added": 0.017094017094017096,
+      "structural_intensity": 1.3140161725067385,
+      "timestamp": "2026-02-02T21:42:35.231776"
+    },
+    {
+      "ai_metaphor_removed": 0.8984375,
+      "dialogue_added": 0.0234375,
+      "action_detail_added": 0.0625,
+      "description_reduced": 0.0,
+      "sentence_simplified": 0.0,
+      "direct_expression_added": 0.015625,
+      "structural_intensity": 1.372495446265938,
+      "timestamp": "2026-02-02T22:01:23.858152"
+    }
+  ]
+}
